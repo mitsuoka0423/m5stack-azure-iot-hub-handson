@@ -1,0 +1,8 @@
+{
+    "board": "esp32:esp32:pico32",
+    "sketch": "device.ino",
+    "configuration": "PartitionScheme=default,UploadSpeed=115200,DebugLevel=none",
+    "output": "./.build",
+    "programmer": "USBasp",
+    "port": "COM4"
+}
